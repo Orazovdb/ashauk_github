@@ -69,7 +69,9 @@ export default {
           if (status) {
             localStorage?.setItem('authorization', data.data.token)
             this.$cookie.set('authorization', data.data.token)
-            this.$router.push('/admin')
+            this.$router.push('/ashauk-admin/')
+          } else {
+            this.$router.push('/ashauk-admin/login')
           }
         } catch (err) {
           console.log(err)

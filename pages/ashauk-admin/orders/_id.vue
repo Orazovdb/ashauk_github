@@ -33,7 +33,7 @@ export default {
     //   }
     // },
     openNewPage(id) {
-      this.$router.push(`admin/orders_id/${id}`)
+      this.$router.push(`ashauk-admin/orders_id/${id}`)
     },
   },
 }
