@@ -231,7 +231,6 @@ export default {
   left: 0;
   z-index: 101;
   min-height: 115px;
-      // this.$router.push(path.to)
   display: flex;
   align-items: center;
   justify-content: center;
