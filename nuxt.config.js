@@ -76,7 +76,7 @@ export default {
   ],
 
   yandexMetrika: {
-    id: '95652503',
+    id: '95743159',
   },
 
   i18n: {

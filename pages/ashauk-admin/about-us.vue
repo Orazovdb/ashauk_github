@@ -60,14 +60,14 @@
 </template>
 
 <script>
-import { mapGetters } from 'vuex'
 import {
-  getAbout,
-  deleteAbout,
   addAboutGallery,
-  getAboutGallery,
+  deleteAbout,
   deleteAboutGallery,
+  getAbout,
+  getAboutGallery,
 } from '@/api/admin.api'
+import { mapGetters } from 'vuex'
 
 export default {
   layout: 'admin',

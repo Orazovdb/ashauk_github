@@ -34,7 +34,7 @@
           type="date"
           label="Time"
           height="46"
-        ></base-input>
+        />
       </base-col>
       <base-col cols="8"></base-col>
       <base-col cols="2">
