@@ -17,7 +17,7 @@
             {{ $t('subtitleSecond') }}
           </div>
           <div class="header__top-right-logo">
-            <img src="@/assets/img/logo_2.png" alt="logo" />
+            <img src="@/assets/img/2024.jpg" alt="logo" />
           </div>
         </nuxt-link>
       </div>
