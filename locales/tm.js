@@ -1,8 +1,8 @@
 export default {
   title: '"Türkmenawtoulaglary" agentligi',
   subtitle: 'Aşgabatdaky awtoulag kärhanasy',
-  titleSecond: 'Arkadag Serdarly',
-  subtitleSecond: 'bagtyýar ýaşlar',
+  titleSecond: 'PÄHIM PAÝHAS UMMANY',
+  subtitleSecond: 'MAGTYMGULY PYRAGY',
   home: 'Baş sahypa',
   about: 'Biz barada',
   services: 'Hyzmatlar',

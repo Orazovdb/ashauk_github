@@ -1,8 +1,8 @@
 export default {
   title: 'Агентство "Туркменавтоулаглары"',
   subtitle: 'Ашхабадское автомобильное предприятие',
-  titleSecond: 'Счастливая молодежь',
-  subtitleSecond: 'с Аркадаг Сердаром',
+  titleSecond: 'КЛАДЕЗЬ РАЗУМА',
+  subtitleSecond: 'МАХТУМКУЛИ ФРАГИ',
   home: 'Главная',
   about: 'О нас',
   services: 'Услуги',

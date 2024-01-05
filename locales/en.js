@@ -1,8 +1,8 @@
 export default {
   title: '"Turkmenawtoulaglary" agency',
   subtitle: 'Ashgabat Automobile Enterprise',
-  titleSecond: 'Happy Youth',
-  subtitleSecond: 'with Arkadag Serdar',
+  titleSecond: "MAGTYMGULY FERAGHI'S",
+  subtitleSecond: 'FOUNT OF MIND',
   home: 'Home',
   about: 'About us',
   services: 'Services',
