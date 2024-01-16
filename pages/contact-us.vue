@@ -28,7 +28,7 @@ export default {
         {
           id: 2,
           title: 'ourEmail',
-          email: 'ashauk@awtoulag.gov.tm',
+          email: 'Awto@sanly.tm',
         },
         {
           id: 3,

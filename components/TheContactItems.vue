@@ -1,4 +1,5 @@
-a<template>
+a
+<template>
   <div class="contact-items">
     <div class="contact-items__row">
       <form class="contact-items__left" @submit.prevent>
@@ -8,7 +9,7 @@ a<template>
             :value="main.name"
             labelTranslated="yourName"
           ></base-input>
-          <a href="mailto:ashauk@awtoulag.gov.tm">
+          <a href="mailto:Awto@sanly.tm">
             <base-input
               @updateValue="(val) => (main['email'] = val)"
               :value="main.email"

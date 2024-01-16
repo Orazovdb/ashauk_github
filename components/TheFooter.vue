@@ -39,8 +39,8 @@
                   <img src="@/assets/img/footer-contact_email.png" alt="" />
                 </div>
                 <div class="footer__content-contact-us">
-                  <a href="mailto:ashauk@awtoulag.gov.tm">
-                    ashauk@awtoulag.gov.tm
+                  <a href="mailto:Awto@sanly.tm">
+                    Awto@sanly.tm
                   </a>
                 </div>
               </li>
